@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArivApc
 - 👀 I’m interested in new projects
-- 🌱 I’m currently learning Java Programming
+- 🌱 I’m currently learning Unity + C#
 - 💞️ I’m looking to collaborate on nothing yet :)
 - 📫 You can reach me by use e-mail
 
